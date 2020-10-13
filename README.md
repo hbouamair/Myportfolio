@@ -1,4 +1,4 @@
-# Front-End Developer Folio ⚡️ (#contributors)
+# Front-End Developer Folio ⚡️
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
