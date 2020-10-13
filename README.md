@@ -11,7 +11,7 @@ Just change `src/portfolio.js` to get your personal portfolio. Feel free to use 
 
 
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/saadpasta/developerFolio/pulls).
+
 
 ## Table of Contents
 - [Sections](#sections)
